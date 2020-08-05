@@ -4,8 +4,6 @@ import logo from '../../assets/img/logo.png';
 import './menu.css';
 import Button from '../Button';
 
-// import ButtonLink from '../components/ButtonLink';
-
 function Menu() {
     return (
         <header className="Menu">

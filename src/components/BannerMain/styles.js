@@ -25,7 +25,7 @@ ContentAreaContainer.Item = styled.div`
 `;
 
 ContentAreaContainer.Category = styled.h1`
-  font-family: Roboto;
+  font-family: IBM Plex Mono;
   font-style: normal;
   font-weight: normal;
   font-size: 60px;
@@ -101,7 +101,7 @@ export const BannerMainContainer = styled.section`
 `;
 
 export const WatchButton = styled.button`
-  font-family: 'Roboto', sans-serif;
+  font-family: 'IBM Plex Mono', 'Press Start 2P';
   box-sizing: border-box;
   cursor: pointer;
   padding: 16px 24px;
